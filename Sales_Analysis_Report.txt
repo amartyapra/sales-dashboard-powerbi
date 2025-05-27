@@ -1,0 +1,46 @@
+Sales Analysis Report
+
+Overview
+This report shows that in 2022, the online store generated $2.18 million in revenue across 27,750 orders, accompanied by a total of 19.42 million customer reviews. In the current quarter (October–December), sales reached $811,090, representing approximately 37% of the full-year total.
+
+1. Monthly Trend
+This section shows that January–June began at $119K in January, dipped to $68K in February, then climbed steadily to $158K by June.
+July–August plateaued around $140K each month.
+September jumped to $292K as early holiday promotions took effect.
+October–December saw a holiday surge with $208K in October, $310K in November, and $293K in December.
+
+2. Weekly Dynamics
+This section shows that sales rose gradually through spring and summer before accelerating in late fall. The highest weekly revenue occurred in mid-December (week 48), when individual weeks approached $90K, driven by festive shopping.
+
+3. Category Performance
+This section shows YTD revenue, Q4 revenue, and percentage of total by category:
+Category | YTD Revenue | Q4 Revenue | Percentage of Total
+Men’s Shoes | $940,266 | $325,090 | 43.2%
+Camera | $492,521 | $188,381 | 22.6%
+Men’s Clothes | $357,644 | $136,700 | 16.4%
+Car Accessories | $237,290 | $91,359 | 10.9%
+Toys | $110,839 | $30,382 | 5.1%
+Mobile & Accessories | $39,178 | $39,178 | 1.8%
+
+4. Top Products by Revenue
+This section lists:
+1. Nikon Wide Angle AF Nikkor 24 mm f/2.8D Lens — $33.6K
+2. Atomos Ninja V 5″ 4K Photo/Video Recorder — $28.4K
+3. Solid Gear Hydra GTX Safety Shoes — $26.9K
+4. Canal Toys Instant Print Camera — $21.6K
+5. Vince Camuto Lyre Dress Shoe — $19.4K
+
+5. Top Products by Customer Engagement
+This section lists:
+- SanDisk 16 GB Ultra microSDHC (3-pack) — 402,828 reviews
+- SanDisk 1 TB Extreme microSDXC — 337,401 reviews
+- SanDisk 400 GB Ultra microSDXC — 227,962 reviews
+- JETech iPhone 7/8 Screen Protector — 155,709 reviews
+- WOLVERINE Rancher Steel-Toe Wellington — 139,353 reviews
+
+6. Strategic Takeaways
+This section recommends:
+• Focus on Men’s Shoes category by maintaining inventory, featuring on site, and exploring limited editions.
+• Expand Mobile & Accessories by exploring partnerships and exclusive lines.
+• Refine holiday strategy by launching promotions in early September.
+• Leverage high-review SanDisk products in bundles, loyalty rewards, and targeted campaigns.
